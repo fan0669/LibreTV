@@ -1,0 +1,10 @@
+[
+    {
+        "name": "黑木耳",
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+    },
+    {
+        "name": "电影天堂资源",
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    },
+]
